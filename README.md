@@ -18,7 +18,7 @@ repo sync -j$(nproc --all) --force-sync
 ```
 * Device Tree (Make sure you are in root directory of TWRP source.):
 ```
-git clone https://github.com/cd-Crypton/custom_recovery_tree_samsung_a55x -b twrp-12.1 ./device/samsung/a55x
+git clone https://github.com/TheNoobDevs/custom_recovery_tree_samsung_a55x -b twrp-14 ./device/samsung/a55x
 ```
 * Build (Make sure you are in root directory of TWRP source.)
 ```
